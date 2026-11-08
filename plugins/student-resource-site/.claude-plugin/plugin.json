@@ -1,0 +1,11 @@
+{
+  "name": "student-resource-site",
+  "displayName": "Student Resource Site",
+  "description": "Design and build a student-run course-resource website: past papers and notes by course and session, a low-effort upload channel with personal-data redaction, course ratings, anonymous discussion, an opportunities board and a helper chatbot, at zero fixed cost with capped AI spend.",
+  "version": "1.0.0",
+  "author": { "name": "LucasXQY", "url": "https://github.com/LucasXQY" },
+  "homepage": "https://github.com/LucasXQY/student-resource-site-skill",
+  "repository": "https://github.com/LucasXQY/student-resource-site-skill",
+  "license": "MIT",
+  "keywords": ["education", "students", "past-papers", "course-reviews", "redaction", "moderation", "github-pages", "cloudflare-workers"]
+}

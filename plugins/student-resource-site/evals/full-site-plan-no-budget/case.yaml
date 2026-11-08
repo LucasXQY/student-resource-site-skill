@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: full-site-plan-no-budget
+expected_outcome: |
+  A complete, phased design document for a zero-budget student resource site with uploads, privacy protection, anonymous discussion and cost control, maintained by two busy students.

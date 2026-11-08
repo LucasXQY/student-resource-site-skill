@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: reviews-and-forum-safety
+expected_outcome: |
+  A concrete design for course ratings and a discussion board on a static site that avoids complaints from lecturers, vote stuffing, spam and abuse, with page contents, limits and an admin review flow.

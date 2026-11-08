@@ -1,0 +1,14 @@
+{
+  "name": "lucasxqy-skills",
+  "description": "Claude skills by LucasXQY",
+  "owner": { "name": "LucasXQY" },
+  "plugins": [
+    {
+      "name": "student-resource-site",
+      "source": "./plugins/student-resource-site",
+      "description": "Design and build a student-run course-resource website with uploads, privacy-safe redaction, course ratings, anonymous discussion and capped AI costs.",
+      "category": "productivity",
+      "tags": ["education", "students", "website", "privacy", "moderation"]
+    }
+  ]
+}
